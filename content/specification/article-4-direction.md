@@ -1,14 +1,15 @@
----
-specification: article-4-direction
-name: Article 4 direction
-plural: article 4 directions
-specification-status: candidate-standard
-start-date: ''
-end-date: ''
-entry-date: '2023-09-11'
-github-discussion: 30
-version: 1.3.3
-datasets:
+id: article-4-direction
+display_name: Article 4 direction
+data:
+  specification: article-4-direction
+  name: Article 4 direction
+  plural: article 4 directions
+  specification-status: candidate-standard
+  start-date: ''
+  end-date: ''
+  entry-date: '2023-09-11'
+  version: 1.3.3
+  datasets:
     - dataset: article-4-direction
       name: article 4 direction
       fields:
@@ -176,4 +177,3 @@ datasets:
             If applicable, the date that the article 4 direction was no longer in effect, written in `YYYY-MM-DD` format. If this does not apply, leave the cell blank.
 
             Example: `1999-01-20`
----
